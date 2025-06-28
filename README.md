@@ -115,31 +115,13 @@ mvn spring-boot:run
 
 spring.datasource.url=jdbc:mysql://localhost:3306/hotbytev2
 spring.datasource.username=root
-spring.datasource.password=your_password
+spring.datasource.password=Satara@123
 
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
 jwt.secret=your_base64_encoded_secret
-🎥 Project Demo Resources
-📽️ Project Demo Video
 
-🎞️ PPT Presentation
-
-📹 Project Walkthrough
-
-✅ Good to Have – Optional Enhancements
-🧪 Unit Testing with Mockito
-
-🧾 SonarQube Reports for code quality
-
-🐳 Dockerize backend and frontend
-
-☁️ CI/CD with GitHub Actions / AWS Pipelines
-
-📡 Email integration using JavaMailSender
-
-🗂️ API versioning (v1, v2, etc.)
 
 👩‍💻 Author
 Sanchita Devkar
